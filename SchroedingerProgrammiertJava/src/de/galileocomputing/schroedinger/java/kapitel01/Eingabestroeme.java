@@ -9,6 +9,7 @@ public class Eingabestroeme {
 		int wert = System.in.read();
 		System.out.println(wert);
 
+	// Github-Test Mac	
 	}
 
 }
