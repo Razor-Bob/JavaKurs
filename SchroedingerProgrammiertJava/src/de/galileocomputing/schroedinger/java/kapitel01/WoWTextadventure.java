@@ -12,7 +12,7 @@ public class WoWTextadventure {
 		System.out.println("Mit 'Q' verlässt du das Spiel.");
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String befehl;
-		while ((befehl = br.readLine()) != null) {w
+		while ((befehl = br.readLine()) != null) {
 			switch (befehl.toLowerCase()) {
 			case "n":
 				System.out.println("Du gehst nach Norden.");
