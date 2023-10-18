@@ -48,7 +48,8 @@ public class WoWTextadventure {
 					break;
 				default:
 					System.err.println("Das verstehe ich nicht.");
-						
+			
+			// Github-Test Mac		
 			}
 		}
 
