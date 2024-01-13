@@ -4,7 +4,7 @@ public class WertzuweisungBerechnungvonTermwerten {
 
 	public static void main(String[] args) {
 		
-		int a;	// Deklaration der Variable
+		int a;	// Deklaration der Variable a
 		a =12;	// Wertzuweisung
 		
 		// Auswertung von Termen
