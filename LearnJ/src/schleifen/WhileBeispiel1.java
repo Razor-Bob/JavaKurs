@@ -6,7 +6,7 @@ public class WhileBeispiel1 {
 	
 	public static void main(String[] args) {
 		int n=1; // Die Variable n benutzen wir, um zu zählen, wie oft wir schon wiederholt haben.
-				  //	n == 1 bedeutet, dass wir im 1. Wiederholungsdurchgang sind.
+				  //n == 1 bedeutet, dass wir im 1. Wiederholungsdurchgang sind.
 		
 		while (n<=8) {
 		
