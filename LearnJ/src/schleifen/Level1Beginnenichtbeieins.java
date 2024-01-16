@@ -15,7 +15,17 @@ public class Level1Beginnenichtbeieins {
 			n=n+1;
 			
 		}
+		
 	// alleine geschafft :-)
+		
+	// Lösung der Seite
+		
+	// int n = 5;
+	// while (n <= 25) {
+    //  println(n); 
+    //  n++;
+	// }
+		
 	}
 
 }

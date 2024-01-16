@@ -18,9 +18,8 @@ public class WhileBeispiel2 {
 			
 		}
 	// Die drei print-Anweisungen kann man übrigens auch zu einer einzigen Anweisung zusammenfassen:
-	// println("Das ist der " + z + "-te Wiederholungsschritt");
-		
-		
+	// System.out.println("Das ist der " + z + "-te Wiederholungsschritt");
+			
 	}
 
 }
