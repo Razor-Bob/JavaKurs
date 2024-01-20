@@ -25,7 +25,7 @@ public class Level2Quadratzahlen {
 
 		// alleine geschafft :-)
 		 
-		// Lösung der Seite
+		// Lösung der Seite https://www.learnj.de/doku.php?id=einstieg:aufgabenwhile:loesung:level2:start
 		 
 		// int n = 1;
 		// while (n <= 30) {

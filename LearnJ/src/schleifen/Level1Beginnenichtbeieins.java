@@ -18,7 +18,7 @@ public class Level1Beginnenichtbeieins {
 		
 	// alleine geschafft :-)
 		
-	// Lösung der Seite
+	// Lösung der Seite https://www.learnj.de/doku.php?id=einstieg:aufgabenwhile:loesung:level1:start
 		
 	// int n = 5;
 	// while (n <= 25) {

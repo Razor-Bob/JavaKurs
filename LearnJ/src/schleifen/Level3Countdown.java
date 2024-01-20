@@ -19,7 +19,7 @@ public class Level3Countdown {
 		System.out.print("0!");
 	}
 
-	// Lösung der Seite
+	// Lösung der Seite https://www.learnj.de/doku.php?id=einstieg:aufgabenwhile:loesung:level3:start
 	// int n = 10;
 
 	// while (n >= 1) {
