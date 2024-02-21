@@ -7,7 +7,7 @@ public class ForBeispiel7 {
 	public static void main(String[] args) {
 		
 		System.out.println("Dreier-Einmaleins:");
-		for (int n = 3; n<=30; n+=3) {
+		for (int n=3; n<=30; n+=3) {
 			System.out.print(n + ", ");
 		}
 		System.out.println(" -> Fertig!");
