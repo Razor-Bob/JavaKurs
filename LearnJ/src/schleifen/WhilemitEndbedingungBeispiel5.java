@@ -9,7 +9,7 @@ public class WhilemitEndbedingungBeispiel5 {
 	
 	public static void main(String[] args) {
 		
-		int i=0;
+		int i=0;	
 		
 		do {
 			
